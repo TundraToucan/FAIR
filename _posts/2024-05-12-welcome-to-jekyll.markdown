@@ -1,29 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "FAIR centre Manifesto"
 date:   2024-05-12 20:02:11 +0200
-categories: jekyll update
+categories: manifesto
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We are dedicated to identifying and eradicating bias and prejudicial effects embedded in artificial intelligence (AI) technologies. Our mission is to establish and disseminate the highest possible principles and guidelines for fairness and inclusivity in the use of data for model training purposes and the ethical application of machine learning models for a better society.
 
-Jekyll requires blog post files to be named according to the following format:
+By bringing together leading experts in computer science, psychology, philosophy, and law, FAIR seeks to broaden our understanding of how biases come to permeate AI technologies and what can be done to prevent them from manifesting in data and algorithms. This interdisciplinary approach allows us to address the three main pillars of our research: fairness, explainability, and trustworthiness in algorithmic decision making.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Ultimately, our center will constitute a concerted effort to institutionalize progressive changes in AI methodologies and their implementation to make AI fair for all.
