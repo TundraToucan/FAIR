@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+[Link to our mission statement](./manifesto.html).
