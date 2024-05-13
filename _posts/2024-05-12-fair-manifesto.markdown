@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FAIR centre Manifesto"
+title:  "Mission Statement"
 date:   2024-05-12 20:02:11 +0200
 categories: manifesto
 ---
