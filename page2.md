@@ -3,6 +3,8 @@ layout: default
 title: Team
 rank: 2
 ---
+## Meet the Team
+
 **Anne Therese N.**
 Logo type designer
 
