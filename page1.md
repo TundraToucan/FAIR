@@ -6,31 +6,11 @@ rank: 1
 ## Listen to 'Artificially Unintelligent' (Season 1)
 The FAIR Center launched summer 2024 and its research projects have been set in motion. The podcast series 'Artificially Unintelligent' shares the research from FAIR with an international audience of academics and students interested in the trappings and failures of AI.
 
-### Episode 13: Putting the AI in Fail
+### Episode 03: Putting the AI in Fail
 
-### Episode 12:
+### Episode 02: "AI took my home!"
 
-### Episode 11:
-
-### Episode 10:
-
-### Episode 09:
-
-### Episode 08:
-
-### Episode 07:
-
-### Episode 06:
-
-### Episode 05:
-
-### Episode 04:
-
-### Episode 03:
-
-### Episode 02:
-
-### Episode 01:
+### Episode 01: There Are No Shortcuts to Progress (with Tundra Toucan)
 
 ## Call for papers
 Where? | Title | Due date | Who? | Link
