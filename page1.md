@@ -1,9 +1,6 @@
 ---
 layout: default
+title: Activity
+rank: 1
 ---
-
-## Activity
-
-Test
-
-[back](./)
+test
