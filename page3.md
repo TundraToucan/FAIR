@@ -4,6 +4,8 @@ title: Research
 rank: 3
 ---
 ## What's in the Box?
+![Research Project, no. 1](/assets/img/proj1.png "What's in the Box?")
+
 The objective of this research is make transparent and understanble what goes on in the "black boxes" of algoritms fuelling AI systems and to make recommendations for improving transparency and explainability.
 
 ## Ethics and Responsibility in Artificial Intelligence
