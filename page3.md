@@ -3,8 +3,8 @@ layout: default
 title: Research
 rank: 3
 ---
-![Research Project, no. 1](/assets/img/proj1.png "What's in the Box?")
-
+![Research Project, no. 1](assets/img/proj1.png "What's in the Box?")
+<img src="/assets/img/proj1.png" class="img-responsive" alt=""> </div>
 The objective of this research is make transparent and understanble what goes on in the "black boxes" of algoritms fuelling AI systems and to make recommendations for improving transparency and explainability.
 
 ![Research Project, no. 2](/assets/img/proj2.png "Ethics and Responsibility in Artificial Intelligence")
