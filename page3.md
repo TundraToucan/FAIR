@@ -17,9 +17,3 @@ The objective of this research is to find out how much bias is present in curren
 
 ## For a Few Papers More
 The objective of this research mostly is to salami-slice the others' research.
-
-![Image]({{ site.baseurl }}/assets/img/proj1.png)
-![Image]({{ site.baseurl }}/assets/img/proj2.png)
-![Image]({{ site.baseurl }}/assets/img/proj3.png)
-![Image]({{ site.baseurl }}/assets/img/proj4.png)
-![Image]({{ site.baseurl }}/assets/img/proj5.png)
