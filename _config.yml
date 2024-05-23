@@ -29,7 +29,7 @@ github_username:  TundraToucan
 logo: /assets/img/logo.png
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-feed
 
