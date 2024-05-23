@@ -5,7 +5,7 @@ rank: 3
 ---
 ![Image]({{ site.baseurl }}/assets/img/proj1.png)
 
-The objective of this research is make transparent and understanble what goes on in the "black boxes" of algoritms fuelling AI systems and to make recommendations for improving transparency and explainability.
+The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 
 ![Image]({{ site.baseurl }}/assets/img/proj2.png)
 
@@ -21,4 +21,4 @@ The objective of this research is to find out how much bias is present in curren
 
 ![Image]({{ site.baseurl }}/assets/img/proj5.png)
 
-The objective of this research mostly is to salamice slice the others' research.
+The objective of this research mostly is to salami-slice the others' research.
