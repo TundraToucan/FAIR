@@ -3,6 +3,9 @@ layout: default
 title: Activity
 rank: 1
 ---
+
+![Image]({{ site.baseurl }}/assets/img/words.jpg)
+
 ## Listen to 'Artificially Unintelligent' (Season 1)
 The FAIR Center launched summer 2024 and its research projects have been set in motion. The podcast series 'Artificially Unintelligent' shares the research from FAIR with an international audience of academics and students interested in the trappings and failures of AI.
 
