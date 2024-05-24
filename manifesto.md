@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Image]({{ site.baseurl }}/assets/img/words.jpg)
+
 ## Mission Statement
 
 We are dedicated to identifying and eradicating bias and prejudicial effects embedded in artificial intelligence (AI) technologies. Our mission is to establish and disseminate the highest possible principles and guidelines for fairness and inclusivity in the use of data for model training purposes and the ethical application of machine learning models for a better society.
