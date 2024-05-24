@@ -3,8 +3,6 @@ layout: default
 title: Research
 rank: 3
 ---
-![Image]({{ site.baseurl }}/assets/img/words.jpg)
-
 ## What's in the Box?
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 
