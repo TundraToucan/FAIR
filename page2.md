@@ -3,6 +3,9 @@ layout: default
 title: Team
 rank: 2
 ---
+
+![Image]({{ site.baseurl }}/assets/img/words.jpg)
+
 ## Meet the Team
 
 **Anne Therese N.**
