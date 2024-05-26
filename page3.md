@@ -9,8 +9,8 @@ rank: 3
 
 <table>
     <tr>
+        <td><img src="/assets/img/glass.png"></td>
         <td>What's in the Box?</td>
-        <td><img src="}/assets/img/glass.png"></td>
     </tr>
 </table>
 
