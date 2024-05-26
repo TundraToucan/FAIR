@@ -7,12 +7,9 @@ rank: 3
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/coop.png){: width="100" }
 
 
-## What's in the Box?
-
-
 | Research |
 | --- | --- |
-| What's in the Box? | {::nomarkdown}<img src="/assets/img/2023/glass.png">{:/} |
+| What's in the Box? | {::nomarkdown}<img src="/assets/img/glass.png">{:/} |
 
 
 ## What's in the Box?
