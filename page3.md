@@ -4,7 +4,7 @@ title: Research
 rank: 3
 ---
 
-![Image]({{ site.baseurl }}/assets/img/encryption.png)
+![Image]({{ site.baseurl }}/assets/img/glass.png)
 ![Image]({{ site.baseurl }}/assets/img/brain.png)
 ![Image]({{ site.baseurl }}/assets/img/scale.png)
 ![Image]({{ site.baseurl }}/assets/img/inclusive.png)
