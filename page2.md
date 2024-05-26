@@ -79,9 +79,6 @@ Illustrator
 <br>
 
 ## FAIR Advisory Board
-![Image]({{ site.baseurl }}/assets/img/screen.png){: width="300" }
-<br>
-
 Get to know the expert who is part of the advisory board affiliated with the FAIR Center.
 
 **Noeska S.**
