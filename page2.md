@@ -14,8 +14,11 @@ International research leaders in artificial intelligence and related discipline
 <br>
 
 Professor(s)
+
 Associate Professor(s)
+
 Postdoctoral Fellow(s)
+
 PhD Candidate(s)
 <br>
 
@@ -23,8 +26,11 @@ PhD Candidate(s)
 <br>
 
 Professor(s)
+
 Associate Professor(s)
+
 Postdoctoral Fellow(s)
+
 PhD Candidate(s)
 <br>
 
@@ -32,8 +38,11 @@ PhD Candidate(s)
 <br>
 
 Professor(s)
+
 Associate Professor(s)
+
 Postdoctoral Fellow(s)
+
 PhD Candidate(s)
 <br>
 
@@ -41,8 +50,11 @@ PhD Candidate(s)
 <br>
 
 Professor(s)
+
 Associate Professor(s)
+
 Postdoctoral Fellow(s)
+
 PhD Candidate(s)
 <br>
 
