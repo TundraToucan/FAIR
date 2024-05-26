@@ -18,7 +18,7 @@ Associate Professor(s)
 Postdoctoral Fellow(s)
 
 PhD Candidate(s)
-<br>
+<br><br><br>
 
 ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="200" }{: style="float: left"} 
 Professor(s)
@@ -28,7 +28,7 @@ Associate Professor(s)
 Postdoctoral Fellow(s)
 
 PhD Candidate(s)
-<br>
+<br><br><br>
 
 ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="200" }{: style="float: left"} 
 Professor(s)
@@ -47,7 +47,7 @@ Associate Professor(s)
 Postdoctoral Fellow(s)
 
 PhD Candidate(s)
-<br>
+<br><br><br>
 
 ## Staff at FAIR
 ![Image]({{ site.baseurl }}/assets/img/star.png){: width="200" }{: style="float: left"} 
@@ -65,7 +65,7 @@ Project lead
 
 **Sara-Linn A.**
 Illustrator
-<br>
+<br><br><br>
 
 ## FAIR Advisory Board
 Get to know the expert who is part of the advisory board affiliated with the FAIR Center.
