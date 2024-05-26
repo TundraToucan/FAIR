@@ -14,7 +14,7 @@ rank: 3
     </tr>
 
     <tr>
-        <td><img src="/assets/img/brain.png" width="100" height="100"></td>
+        <td><img title="Ethics and Responsibility in Artificial Intelligence?" alt="Brain" src="/assets/img/brain.png" width="100" height="100"></td>
         <td>Ethics and Responsibility in Artificial Intelligence</td>
     </tr>
     
