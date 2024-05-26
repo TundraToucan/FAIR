@@ -7,11 +7,7 @@ rank: 3
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/coop.png){: width="100" }
 
 
-| Research |
-| --- | --- |
-| What's in the Box? | <img src="/assets/img/glass.png" width="100">{:/} |
-
-
+![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }{: style="float: left"} 
 ## What's in the Box?
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 
