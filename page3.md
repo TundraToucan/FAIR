@@ -7,8 +7,12 @@ rank: 3
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/coop.png){: width="100" }
 
 
-| Content | Example |
-| {::nomarkdown}<img src="/assets/img/glass.png">{:/} | What's in the Box? |
+<table>
+    <tr>
+        <td>What's in the Box?</td>
+        <td><img src="}/assets/img/glass.png"></td>
+    </tr>
+</table>
 
 
 ## What's in the Box?
