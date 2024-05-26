@@ -38,6 +38,7 @@ Associate Professor(s)
 Postdoctoral Fellow(s)
 
 PhD Candidate(s)
+<br><br><br>
 
 ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="200" }{: style="float: left"} 
 Professor(s)
