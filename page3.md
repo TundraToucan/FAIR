@@ -9,8 +9,8 @@ rank: 3
 
 ## What's in the Box?
 
-| Research                                                                      | 
-|-------------------------------------------------------------------------------|
+
+| --- | --- |
 | What's in the Box? | {::nomarkdown}<img src="/assets/img/2023/glass.png">{:/} |
 
 
