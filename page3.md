@@ -7,17 +7,12 @@ rank: 3
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="100" } ![Image]({{ site.baseurl }}/assets/img/coop.png){: width="100" }
 
 
+## What's in the Box?
 <table>
     <tr>
-        <td><img title="What's in the Box?" alt="Looking glass" src="/assets/img/glass.png" width="100" height="100"></td>
-        <td>What's in the Box?</td>
-    </tr>
-
-    <tr>
-        <td><img title="Ethics and Responsibility in Artificial Intelligence?" alt="Brain" src="/assets/img/brain.png" width="100" height="100"></td>
-        <td>Ethics and Responsibility in Artificial Intelligence</td>
-    </tr>
-    
+        <td>![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } width="100" height="100"></td>
+        <td>The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.</td>
+    </tr>   
 </table>
 
 ## What's in the Box?
