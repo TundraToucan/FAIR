@@ -10,7 +10,7 @@ rank: 3
 <table>
     <tr>
         <td>![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }</td>
-        <td><img src="/assets/img/glass.png"></td>
+        <td><img src="/assets/img/glass.png" width="100" height="100"></td>
         <td>What's in the Box?</td>
     </tr>
 </table>
