@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activity
-rank: 4
+rank: 3
 ---
 
 ![Image]({{ site.baseurl }}/assets/img/words.jpg)
