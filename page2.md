@@ -11,43 +11,35 @@ International research leaders in artificial intelligence and related discipline
 
 ## FAIR Affiliated Researchers
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="300" }
+<br>
 
 Professor(s)
-
 Associate Professor(s)
-
 Postdoctoral Fellow(s)
-
 PhD Candidate(s)
 
 ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="300" }
+<br>
 
 Professor(s)
-
 Associate Professor(s)
-
 Postdoctoral Fellow(s)
-
 PhD Candidate(s)
 
 ![Image]({{ site.baseurl }}/assets/img/scale.png){: width="300" }
+<br>
 
 Professor(s)
-
 Associate Professor(s)
-
 Postdoctoral Fellow(s)
-
 PhD Candidate(s)
 
 ![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="300" }
+<br>
 
 Professor(s)
-
 Associate Professor(s)
-
 Postdoctoral Fellow(s)
-
 PhD Candidate(s)
 
 ## Staff at FAIR
