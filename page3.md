@@ -9,7 +9,7 @@ rank: 3
 
 | Research |
 | --- | --- |
-| What's in the Box? | {::nomarkdown}<img src="/assets/img/glass.png" width="100">{:/} |
+| What's in the Box? | <img src="/assets/img/glass.png" width="100">{:/} |
 
 
 ## What's in the Box?
