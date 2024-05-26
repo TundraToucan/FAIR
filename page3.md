@@ -9,7 +9,7 @@ rank: 3
 
 <table>
     <tr>
-        <td><img src="/assets/img/glass.png" width="100" height="100"></td>
+        <td><img title="What's in the Box?" alt="Looking glass" src="/assets/img/glass.png" width="100" height="100"></td>
         <td>What's in the Box?</td>
     </tr>
 
