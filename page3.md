@@ -8,12 +8,15 @@ rank: 3
 
 
 ## What's in the Box?
-<table>
-    <tr>
+
+
+| What's in the Box? | {::nomarkdown}<img src="/assets/img/2023/glass.png">{:/} |
+
+
+
         <td>![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" } width="100" height="100"></td>
         <td>The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.</td>
-    </tr>   
-</table>
+
 
 ## What's in the Box?
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
