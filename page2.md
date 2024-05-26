@@ -10,9 +10,7 @@ rank: 2
 International research leaders in artificial intelligence and related disciplines working together as a team.
 
 ## FAIR Affiliated Researchers
-![Image]({{ site.baseurl }}/assets/img/glass.png){: width="300" }
-<br>
-
+![Image]({{ site.baseurl }}/assets/img/glass.png){: width="200" }{: style="float: left"} 
 Professor(s)
 
 Associate Professor(s)
@@ -22,9 +20,7 @@ Postdoctoral Fellow(s)
 PhD Candidate(s)
 <br>
 
-![Image]({{ site.baseurl }}/assets/img/brain.png){: width="300" }
-<br>
-
+![Image]({{ site.baseurl }}/assets/img/brain.png){: width="200" }{: style="float: left"} 
 Professor(s)
 
 Associate Professor(s)
@@ -34,9 +30,7 @@ Postdoctoral Fellow(s)
 PhD Candidate(s)
 <br>
 
-![Image]({{ site.baseurl }}/assets/img/scale.png){: width="300" }
-<br>
-
+![Image]({{ site.baseurl }}/assets/img/scale.png){: width="200" }{: style="float: left"} 
 Professor(s)
 
 Associate Professor(s)
@@ -44,11 +38,8 @@ Associate Professor(s)
 Postdoctoral Fellow(s)
 
 PhD Candidate(s)
-<br>
 
-![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="300" }
-<br>
-
+![Image]({{ site.baseurl }}/assets/img/inclusive.png){: width="200" }{: style="float: left"} 
 Professor(s)
 
 Associate Professor(s)
@@ -59,9 +50,7 @@ PhD Candidate(s)
 <br>
 
 ## Staff at FAIR
-![Image]({{ site.baseurl }}/assets/img/star.png){: width="300" }
-<br>
-
+![Image]({{ site.baseurl }}/assets/img/star.png){: width="200" }{: style="float: left"} 
 **Anne Therese N.**
 Logo type designer
 
