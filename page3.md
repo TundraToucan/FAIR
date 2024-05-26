@@ -12,6 +12,12 @@ rank: 3
         <td><img src="/assets/img/glass.png" width="100" height="100"></td>
         <td>What's in the Box?</td>
     </tr>
+
+    <tr>
+        <td><img src="/assets/img/brain.png" width="100" height="100"></td>
+        <td>Ethics and Responsibility in Artificial Intelligence</td>
+    </tr>
+    
 </table>
 
 ## What's in the Box?
