@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-rank: 3
+rank: 1
 ---
 
 ## What's in the Box?
