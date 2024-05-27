@@ -4,7 +4,7 @@ title: Team
 rank: 2
 ---
 
-![Image]({{ site.baseurl }}/assets/img/coop.png){: width="300" style:"display: block; margin: 0 auto"}
+![Image]({{ site.baseurl }}/assets/img/coop.png)
 
 ## Management and Partners
 International research leaders in artificial intelligence and related disciplines working together as a team.
