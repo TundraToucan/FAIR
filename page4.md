@@ -11,15 +11,7 @@ rank: 4
 + Extra touch of realism
 
 ### Web design
-![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
-
-## Miscellaneous
+![Image]({{ site.baseurl }}/assets/img/code.png){: width="640" }
 
 ### 3D Modeling
-![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
-
-### Writing
-![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
-
-### Motion Graphics
-![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
+![Image]({{ site.baseurl }}/assets/img/front.png){: width="640" }
