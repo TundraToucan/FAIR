@@ -14,9 +14,11 @@ The objective of this research is to make transparent and understandable what go
 <br><br>
 
 <div style="background-color: rgb(50, 50, 50);">
+  
 ``python
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 ``
+
 </div>
 
 
