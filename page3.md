@@ -37,7 +37,7 @@ The objective of this research mostly is to salami-slice the others' research.
 <div style="background-color: rgb(226, 105, 71);">
   
 ``
-## For a Few Papers More
+## <p><span style="color:black">For a Few Papers More</span></p>
 ``
 
 </div>
