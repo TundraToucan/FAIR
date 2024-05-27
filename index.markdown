@@ -13,4 +13,4 @@ By bringing together leading experts in computer science, psychology, philosophy
 
 Ultimately, our center will constitute a concerted effort to institutionalize progressive changes in AI methodologies and their implementation to make AI fair for all.
 
-![Image]({{ site.baseurl }}/assets/img/words.jpg)
+![Image]({{ site.baseurl }}/assets/img/words.jpg){: width="640" }
