@@ -4,6 +4,8 @@ title: Team
 rank: 2
 ---
 
+![Image]({{ site.baseurl }}/assets/img/house.png)
+
 ![Image]({{ site.baseurl }}/assets/img/coop.png)
 
 ## Management and Partners
