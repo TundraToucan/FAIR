@@ -13,8 +13,8 @@ rank: 4
 ### Web design
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
-### 3D Assets
+## 3D Assets
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
-### Miscellaneous
+## Miscellaneous
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
