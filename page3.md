@@ -6,6 +6,8 @@ rank: 1
 
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
+# Interdisciplinary Research
+
 ## What's in the Box?
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }{: style="float: left"} 
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
