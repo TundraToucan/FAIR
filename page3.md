@@ -34,19 +34,19 @@ The objective of this research mostly is to salami-slice the others' research.
 <br><br><br>
 
 
-<div style="background-color: rgb(226, 105, 71);">  
+<div style="background-color: rgb(19, 29, 43);">  
 ``
 <p><span style="color:white"><h2>&nbsp; What's in the Box?</h2></span></p>
 ``
 </div>
 
-<div style="background-color: rgb(226, 105, 71);">  
+<div style="background-color: rgb(67, 137, 127);">  
 ``
 <p><span style="color:white"><h2>&nbsp; Ethics and Responsibility in Artificial Intelligence</h2></span></p>
 ``
 </div>
 
-<div style="background-color: rgb(226, 105, 71);">  
+<div style="background-color: rgb(39, 89, 143);">  
 ``
 <p><span style="color:white"><h2>&nbsp; Artificial Intelligence and Legal Liability</h2></span></p>
 ``
@@ -54,12 +54,12 @@ The objective of this research mostly is to salami-slice the others' research.
 
 <div style="background-color: rgb(226, 105, 71);">  
 ``
-<p><span style="color:white"><h2>&nbsp; Confronting Race, Gender, and Ability Bias in Artificial Intelligence</h2></span></p>
+<p><span style="color:black"><h2>&nbsp; Confronting Race, Gender, and Ability Bias in Artificial Intelligence</h2></span></p>
 ``
 </div>
 
-<div style="background-color: rgb(226, 105, 71);">  
+<div style="background-color: rgb(236, 202, 174);">  
 ``
-<p><span style="color:white"><h2>&nbsp; For a Few Papers More</h2></span></p>
+<p><span style="color:black"><h2>&nbsp; For a Few Papers More</h2></span></p>
 ``
 </div>
