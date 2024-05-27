@@ -13,8 +13,13 @@ rank: 4
 ### Web design
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
-## 3D Assets
+## Miscellaneous
+
+### 3D Modeling
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
-## Miscellaneous
+### Writing
+![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
+
+### Motion Graphics
 ![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
