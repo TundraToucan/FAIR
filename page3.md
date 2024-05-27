@@ -4,7 +4,7 @@ title: Research
 rank: 1
 ---
 
-![Image]({{ site.baseurl }}/assets/img/coop1.png)
+![Image]({{ site.baseurl }}/assets/img/coop1.png){: width="640" }
 
 ## What's in the Box?
 ![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }{: style="float: left"} 
