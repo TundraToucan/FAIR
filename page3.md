@@ -4,8 +4,6 @@ title: Research
 rank: 1
 ---
 
-![Image]({{ site.baseurl }}/assets/img/inter.png)
-
 ![Image]({{ site.baseurl }}/assets/img/words.jpg)
 
 ## What's in the Box?
