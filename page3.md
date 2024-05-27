@@ -31,7 +31,7 @@ The objective of this research is to find out how much bias is present in curren
 ## For a Few Papers More
 ![Image]({{ site.baseurl }}/assets/img/rings.png){: width="100" }{: style="float: left"} 
 The objective of this research mostly is to salami-slice the others' research.
-
+<br><br><br>
 
 
 <div style="background-color: rgb(226, 105, 71);">
