@@ -4,6 +4,8 @@ title: Activity
 rank: 3
 ---
 
+![Image]({{ site.baseurl }}/assets/img/talks.png)
+
 ![Image]({{ site.baseurl }}/assets/img/dialogue.png)
 
 ## Listen to 'Artificially Unintelligent' (Season 1)
