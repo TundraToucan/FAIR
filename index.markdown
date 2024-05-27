@@ -12,3 +12,5 @@ We are dedicated to identifying and eradicating bias and prejudicial effects emb
 By bringing together leading experts in computer science, psychology, philosophy, and law, FAIR seeks to broaden our understanding of how biases come to permeate AI technologies and what can be done to prevent them from manifesting in data and algorithms. This interdisciplinary approach allows us to address the three main pillars of our research: fairness, explainability, and trustworthiness in algorithmic decision making.
 
 Ultimately, our center will constitute a concerted effort to institutionalize progressive changes in AI methodologies and their implementation to make AI fair for all.
+
+![Image]({{ site.baseurl }}/assets/img/words.jpg)
