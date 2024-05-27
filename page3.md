@@ -13,17 +13,6 @@ rank: 1
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 <br><br>
 
-
-![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }{: style="float: left"} 
-<div style="background-color: rgb(226, 105, 71);">
-  
-``
-The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
-``
-
-</div>
-
-
 ## Ethics and Responsibility in Artificial Intelligence
 ![Image]({{ site.baseurl }}/assets/img/brain.png){: width="100" }{: style="float: left"} 
 The objective of this research is to explore whether AI can be held accountable and responsible?
@@ -42,3 +31,13 @@ The objective of this research is to find out how much bias is present in curren
 ## For a Few Papers More
 ![Image]({{ site.baseurl }}/assets/img/rings.png){: width="100" }{: style="float: left"} 
 The objective of this research mostly is to salami-slice the others' research.
+
+
+
+<div style="background-color: rgb(226, 105, 71);">
+  
+``
+## For a Few Papers More
+``
+
+</div>
