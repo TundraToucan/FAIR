@@ -13,9 +13,11 @@ rank: 1
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 <br><br>
 
-<div style="background-color: rgb(50, 50, 50);">
+
+![Image]({{ site.baseurl }}/assets/img/glass.png){: width="100" }{: style="float: left"} 
+<div style="background-color: rgb(226, 105, 71);">
   
-``python
+``
 The objective of this research is to make transparent and understandable what goes on in the "black boxes" of algorithms fuelling AI systems and to make recommendations for improving transparency and explainability.
 ``
 
