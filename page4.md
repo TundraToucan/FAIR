@@ -7,6 +7,7 @@ rank: 4
 ## Why Github?
 + Free! No ads!
 + Full control over look and feel
++ Lightning-fast
 + Mobile-ready
 + Extra touch of realism
 
